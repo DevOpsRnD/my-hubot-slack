@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# my-hubot-slack
+=======
+>>>>>>> Slack Commit
 # my-hubot
 
 my-hubot is a chat bot built on the [Hubot][hubot] framework. It was
@@ -212,3 +218,7 @@ Add the subdomain hubot should connect to. If you web URL looks like
 
 You may want to get comfortable with `heroku logs` and `heroku restart` if
 you're having issues.
+<<<<<<< HEAD
+=======
+>>>>>>> hubot-slack First Commit
+>>>>>>> Slack Commit
